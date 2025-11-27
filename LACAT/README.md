@@ -1,6 +1,6 @@
 # Code Reference
 ```command
-If you have used the LACAT project in your work, consider referring to Leurent E. rl-agents: Implementations of reinforcement learning algorithms[EB/OL].(2018)
+The LACAT used code from Leurent E. rl-agents: Implementations of reinforcement learning algorithms[EB/OL].(2018)
 ```
 
 ```command
